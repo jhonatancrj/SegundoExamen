@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\source\\repos\\6demayo - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1598F-8E74-4040-8039-9F2D17A1D7A4}|6demayo\\6demayo.csproj|C:\\Users\\rodri\\source\\repos\\6demayo - copia\\6demayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1598F-8E74-4040-8039-9F2D17A1D7A4}|6demayo\\6demayo.csproj|solutionrelative:6demayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1598F-8E74-4040-8039-9F2D17A1D7A4}|6demayo\\6demayo.csproj|c:\\users\\rodri\\source\\repos\\6demayo - copia\\6demayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66E1598F-8E74-4040-8039-9F2D17A1D7A4}|6demayo\\6demayo.csproj|solutionrelative:6demayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\6demayo - copia\\6demayo\\Form1.cs",
+              "RelativeDocumentMoniker": "6demayo\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\6demayo - copia\\6demayo\\Form1.cs [Design]",
+              "RelativeToolTip": "6demayo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:51:59.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\6demayo - copia\\6demayo\\Form1.cs",
+              "RelativeDocumentMoniker": "6demayo\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\6demayo - copia\\6demayo\\Form1.cs",
+              "RelativeToolTip": "6demayo\\Form1.cs",
+              "ViewState": "AQIAAMcAAACAMzMzMzMowAUBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:31:55.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v8.0,Profile=windows": {
+      "MySqlConnector/2.3.7": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "MySqlConnector/2.3.7": {
+      "sha512": "YiVOxvJ+vAYW8NT9gHv8RxKCDFCSXAObF3z0Ou/8WRv8Lsn2QsxaPW5xEwPE+xCcAq6BGkrI8GTOC09Xg09blQ==",
+      "type": "package",
+      "path": "mysqlconnector/2.3.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net462/MySqlConnector.dll",
+        "lib/net462/MySqlConnector.xml",
+        "lib/net471/MySqlConnector.dll",
+        "lib/net471/MySqlConnector.xml",
+        "lib/net48/MySqlConnector.dll",
+        "lib/net48/MySqlConnector.xml",
+        "lib/net6.0/MySqlConnector.dll",
+        "lib/net6.0/MySqlConnector.xml",
+        "lib/net7.0/MySqlConnector.dll",
+        "lib/net7.0/MySqlConnector.xml",
+        "lib/net8.0/MySqlConnector.dll",
+        "lib/net8.0/MySqlConnector.xml",
+        "lib/netstandard2.0/MySqlConnector.dll",
+        "lib/netstandard2.0/MySqlConnector.xml",
+        "lib/netstandard2.1/MySqlConnector.dll",
+        "lib/netstandard2.1/MySqlConnector.xml",
+        "logo.png",
+        "mysqlconnector.2.3.7.nupkg.sha512",
+        "mysqlconnector.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v8.0,Profile=windows": [
+      "MySqlConnector >= 2.3.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP 2021\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\SegundoParcial\\Examen2.1\\Examen2\\6demayo\\6demayo.csproj",
+      "projectName": "6demayo",
+      "projectPath": "D:\\SegundoParcial\\Examen2.1\\Examen2\\6demayo\\6demayo.csproj",
+      "packagesPath": "C:\\Users\\HP 2021\\.nuget\\packages\\",
+      "outputPath": "D:\\SegundoParcial\\Examen2.1\\Examen2\\6demayo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP 2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net80-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net80-windows": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net80-windows": {
+        "dependencies": {
+          "MySqlConnector": {
+            "target": "Package",
+            "version": "[2.3.7, )"
+          }
+        }
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete MySqlConnector 2.3.7 no es compatible con net80-windows (.NETFramework,Version=v8.0,Profile=windows). El paquete MySqlConnector 2.3.7 admite:\r\n  - net462 (.NETFramework,Version=v4.6.2)\r\n  - net471 (.NETFramework,Version=v4.7.1)\r\n  - net48 (.NETFramework,Version=v4.8)\r\n  - net60 (.NETFramework,Version=v6.0)\r\n  - net70 (.NETFramework,Version=v7.0)\r\n  - net80 (.NETFramework,Version=v8.0)\r\n  - netstandard2.0 (.NETStandard,Version=v2.0)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        ".NETFramework,Version=v8.0,Profile=windows"
+      ]
+    }
+  ]
+}
